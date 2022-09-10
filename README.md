@@ -1,4 +1,4 @@
-# Sales_forecast
+# Sales_forecast_using_Data_Analytics
 Sales Forecast &amp; Inventory Management for an E-Commerce Industry Using Data Analytics
 This project involved using years of sales data from an UK based E-Commerce site and
 predicting the future sales of the E-commerce site.
